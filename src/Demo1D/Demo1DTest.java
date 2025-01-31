@@ -5,7 +5,7 @@ public static void main(String[]args) {
 		
 		System.out.println("United States Of America");
 		  char myChar = 'X'; 
-
+//pull practice
 	        System.out.println("The value of myChar is: " + myChar);
 }
 
